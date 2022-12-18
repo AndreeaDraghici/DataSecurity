@@ -1,4 +1,0 @@
-﻿  Source.cpp
-D:\Data\Facultate\Anul4\Sem1\SD\Curs\Vigenere\Vigenere\Source.cpp(34,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-D:\Data\Facultate\Anul4\Sem1\SD\Curs\Vigenere\Vigenere\Source.cpp(35,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  Vigenere.vcxproj -> D:\Data\Facultate\Anul4\Sem1\SD\Curs\Vigenere\x64\Debug\Vigenere.exe
