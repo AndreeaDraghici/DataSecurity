@@ -1,0 +1,4 @@
+﻿  CaesarCipher.cpp
+D:\Data\Facultate\Anul4\Sem1\SD\Curs\CaesarCipher\CaesarCipher\CaesarCipher.cpp(32,21): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'char *'
+D:\Data\Facultate\Anul4\Sem1\SD\Curs\CaesarCipher\CaesarCipher\CaesarCipher.cpp(32,21): message : consider using '%hhd' in the format string
+  CaesarCipher.vcxproj -> D:\Data\Facultate\Anul4\Sem1\SD\Curs\CaesarCipher\x64\Debug\CaesarCipher.exe
