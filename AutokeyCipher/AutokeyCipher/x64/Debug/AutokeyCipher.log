@@ -1,0 +1,4 @@
+﻿  Autokey.cpp
+D:\Data\Facultate\Anul4\Sem1\SD\Curs\AutokeyCipher\AutokeyCipher\Autokey.cpp(68,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Data\Facultate\Anul4\Sem1\SD\Curs\AutokeyCipher\AutokeyCipher\Autokey.cpp(69,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  AutokeyCipher.vcxproj -> D:\Data\Facultate\Anul4\Sem1\SD\Curs\AutokeyCipher\x64\Debug\AutokeyCipher.exe
